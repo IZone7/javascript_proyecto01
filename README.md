@@ -1,4 +1,4 @@
-**Clonar este repositorio**
+**Clonar este repositorio** <br>
 Recuerda que este proyecto no incluye imágenes, pero puedes utilizar las que prefieras.
 
  ```bash
